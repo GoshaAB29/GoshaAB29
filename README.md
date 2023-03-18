@@ -4,7 +4,7 @@
 
 <h4 align="center">
 
-### <ins>Write me</ins>: 
+### <ins>Contacts</ins>: 
 * [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/gosha_bagrov)
 
 * [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gb_rtrt)
