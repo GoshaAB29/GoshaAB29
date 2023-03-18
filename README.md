@@ -1,5 +1,6 @@
-# Hi there! 
+## Hi there! 
 ### I'm Georgy Bagrov and I'm MIPT DREC student.
+![](https://komarev.com/ghpvc/?username=GoshaAB29&style=for-the-badge)
 
 <h4 align="center">
 
@@ -22,7 +23,10 @@
   * ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
   * <img alt="CMake" src="https://img.shields.io/badge/CMake%20-%23008FBA.svg?&style=for-the-badge&logo=cmake&logoColor=white"/>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GoshaAB29&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoshaAB29&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GoshaAB29&theme=nord_dark) |
-| :-: | :-: | :-: |
-
+ 
+ ###  <ins>Github Stats</ins>:
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GoshaAB29&hide=css,java,html&theme=system">
+  <img src = "https://github-readme-stats.vercel.app/api?username=GoshaAB29&show_icons=true&theme=system&line_height=25">
+</p>
