@@ -1,6 +1,5 @@
 ## Hi there! 
 ### I'm Georgy Bagrov and I'm MIPT DREC student.
-![](https://komarev.com/ghpvc/?username=GoshaAB29&style=for-the-badge)
 
 <h4 align="center">
 
