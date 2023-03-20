@@ -21,7 +21,7 @@
 
   * ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  * <img alt="CMake" src="https://img.shields.io/badge/CMake%20-%23008FBA.svg?&style=for-the-badge&logo=cmake&logoColor=white"/>
+  * <img alt="Make" src="https://img.shields.io/badge/Make%20-%23008FBA.svg?&style=for-the-badge&logo=cmake&logoColor=white"/>
  
  ###  <ins>Github Stats</ins>:
 <br>
