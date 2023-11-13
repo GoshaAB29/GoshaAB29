@@ -1,5 +1,5 @@
 ## Hi there! 
-### I'm Georgy Bagrov and I'm MIPT DREC student.
+### My name is Georgy Bagrov and I'm MIPT DREC student.
 
 <h4 align="center">
 
